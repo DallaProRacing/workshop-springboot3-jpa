@@ -2,7 +2,7 @@ package com.dallaproracing.demo.entities.enums;
 
 public enum OrderStatus {
 
-	WAITING_PAUMENT(1),
+	WAITING_PAYMENT(1),
 	PAI(2),
 	SHIPPEDD(3),
 	DELIVERED(4),
